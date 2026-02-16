@@ -315,9 +315,7 @@ data-lake
 
 # 📄 License
 
-This project is for educational and demonstration purposes.
-
-You may add an MIT License if you want to make it reusable.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
